@@ -3,7 +3,7 @@ body {
   margin: 0;
   padding: 0;
   line-height: 1.6;
-  background: #424b5c;
+  background: #55637e;
   color: #333;
 }
 
@@ -33,7 +33,7 @@ body {
 }
 
 .skills {
-  background: #353f53;
+  background: #4e5b75;
   padding: 20px;
   text-align: center;
 }
@@ -59,7 +59,7 @@ body {
 
 .card {
   display: inline-block;
-  background: #363853;
+  background: #484b75;
   padding: 15px;
   margin: 10px;
   border-radius: 10px;
