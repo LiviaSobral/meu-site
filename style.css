@@ -3,7 +3,7 @@ body {
   margin: 0;
   padding: 0;
   line-height: 1.6;
-  background: #f4f4f4;
+  background: #5a6780;
   color: #333;
 }
 
@@ -11,7 +11,7 @@ body {
   display: flex;
   align-items: center;
   padding: 20px;
-  background: #fff;
+  background: #292055;
 }
 
 .profile-pic {
@@ -28,7 +28,7 @@ body {
 }
 
 .skills {
-  background: #eaeaea;
+  background: #217d8a;
   padding: 20px;
   text-align: center;
 }
@@ -54,7 +54,7 @@ body {
 
 .card {
   display: inline-block;
-  background: #fff;
+  background: #434258;
   padding: 15px;
   margin: 10px;
   border-radius: 10px;
