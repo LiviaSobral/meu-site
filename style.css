@@ -11,7 +11,7 @@ body {
   display: flex;
   align-items: center;
   padding: 20px;
-  background: #5a6780;
+  background: #363853;
 }
 
 .profile-pic {
@@ -23,12 +23,17 @@ body {
 }
 
 .intro h1 {
+  color: #fff;
   margin: 0;
   font-size: 24px;
 }
 
+.intro p {
+  color: #fff;
+}
+
 .skills {
-  background: #217d8a;
+  background: #2b6a72;
   padding: 20px;
   text-align: center;
 }
