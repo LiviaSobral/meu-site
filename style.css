@@ -11,7 +11,7 @@ body {
   display: flex;
   align-items: center;
   padding: 20px;
-  background: #292055;
+  background: #5a6780;
 }
 
 .profile-pic {
@@ -54,7 +54,7 @@ body {
 
 .card {
   display: inline-block;
-  background: #434258;
+  background: #363853;
   padding: 15px;
   margin: 10px;
   border-radius: 10px;
